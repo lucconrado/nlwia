@@ -1,0 +1,1 @@
+Projeto construído no evento Next Level Week da Rocketseat, onde foi criado o Shorts Summary, uma aplicação web que cria um resumo de vídeos shorts do Youtube, transcreve e resume o conteúdo do vídeo com inteligência artificial.
